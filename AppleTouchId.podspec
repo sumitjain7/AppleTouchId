@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AppleTouchId'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'AppleTouchId provides you framework for using Apple Touch Id for authentication'
 
 # This description is used to generate tags and improve search results.
