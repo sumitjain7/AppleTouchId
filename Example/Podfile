@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'appleTouchId_Example' do
+  # pod 'appleTouchId', :path => '../'
+  pod 'appleTouchId', :git => 'https://github.com/sumitjain7/appleTouchId', :tag => '0.1.0'
+  target 'appleTouchId_Tests' do
+    inherit! :search_paths
+
+
+  end
+end

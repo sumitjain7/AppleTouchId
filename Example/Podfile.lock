@@ -1,0 +1,16 @@
+PODS:
+  - appleTouchId (0.1.0)
+
+DEPENDENCIES:
+  - appleTouchId (from `../`)
+
+EXTERNAL SOURCES:
+  appleTouchId:
+    :path: ../
+
+SPEC CHECKSUMS:
+  appleTouchId: ac9542d9290cbb2dd4fd0b45bfeaf6eba17a35d8
+
+PODFILE CHECKSUM: fde267e7d8e057d68ae4a4f6bc97ada120dfdaee
+
+COCOAPODS: 1.2.1
